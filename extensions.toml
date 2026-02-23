@@ -202,7 +202,7 @@ version = "0.0.1"
 
 [auggie]
 submodule = "extensions/auggie"
-version = "0.13.0"
+version = "0.16.0"
 
 [aura-theme]
 submodule = "extensions/aura-theme"
@@ -1677,7 +1677,7 @@ version = "0.3.2"
 
 [julia]
 submodule = "extensions/julia"
-version = "0.1.8"
+version = "0.1.9"
 
 [just]
 submodule = "extensions/just"
@@ -1685,7 +1685,7 @@ version = "0.2.0"
 
 [kagimcp]
 submodule = "extensions/kagimcp"
-version = "0.0.30"
+version = "0.0.31"
 
 [kaimandres]
 submodule = "extensions/kaimandres"
@@ -2517,7 +2517,7 @@ version = "0.3.11"
 
 [odoo]
 submodule = "extensions/odoo"
-version = "1.0.4"
+version = "1.2.0"
 
 [odoo-lsp]
 submodule = "extensions/odoo-lsp"
@@ -2881,7 +2881,7 @@ version = "0.0.3"
 
 [python-requirements]
 submodule = "extensions/python-requirements"
-version = "0.0.3"
+version = "0.0.4"
 
 [python-snippets]
 submodule = "extensions/python-snippets"
@@ -3252,7 +3252,7 @@ version = "0.1.0"
 
 [solidity]
 submodule = "extensions/solidity"
-version = "0.1.9"
+version = "0.2.0"
 
 [soma]
 submodule = "extensions/soma"
